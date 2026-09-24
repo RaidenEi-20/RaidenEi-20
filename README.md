@@ -25,19 +25,6 @@
 
 ---
 
-### 📈 Dynamic Profile Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="175" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
----
-
 ### 📌 Current Focus & Learning Path
 
 - ⚙️ **Dotfiles & Automation:** Developing automated Arch setup & hardening scripts.
